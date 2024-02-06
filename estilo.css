@@ -1,0 +1,23 @@
+body {
+    padding-top: 50px;
+    background-image: url(image.gif);
+  }
+  .profile-card {
+    max-width: 400px;
+    margin: 200px auto;
+    background-color: #a2c8b3;
+    background-repeat: no-repeat;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 100px auto;
+    display: block;
+  }
+  .profile-name {
+    text-align: center;
+    margin-top: 20px;
+  }
